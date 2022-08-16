@@ -10,10 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/mucollabo/web2-nodejs.git"
   },
-  "author": "",
+  "author": "charles",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mucollabo/web2-nodejs/issues"
   },
-  "homepage": "https://github.com/mucollabo/web2-nodejs#readme"
+  "homepage": "https://github.com/mucollabo/web2-nodejs#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "sanitize-html": "2.7.1"
+  }
 }
